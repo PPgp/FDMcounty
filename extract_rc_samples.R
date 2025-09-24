@@ -17,7 +17,7 @@ output.dir <- file.path(input.dir, "RC")
 file.with.county.codes <- file.path(data.dir, "MEMest_wacounties.csv")
 
 nsamples <- 1000
-convert.to.1y <- TRUE # should 5-year age groups be converted to 1-year
+convert.to.1y <- FALSE # should 5-year age groups be converted to 1-year
 
 output.file.samples <- paste0("RCcurves_samples", if(convert.to.1y) "1y" else "5y", nsamples, ".csv")
 output.file.medians <- paste0("RCcurves_medians", if(convert.to.1y) "1y" else "5y", ".txt")

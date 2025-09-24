@@ -1,6 +1,6 @@
 # Flow Difference Method
 
-This repository contains code to estimate the Bayesian and Deterministic versions of the Flow Difference Method (FDM) to project net migration by age. 
+This repository contains code and data for one county to estimate the Bayesian and Deterministic versions of the Flow Difference Method (FDM) for projecting net migration by age.
 
 ## Bayesian FDM
 **Steps:**
