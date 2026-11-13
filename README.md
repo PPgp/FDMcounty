@@ -13,4 +13,4 @@ This repository contains code and data for one county to estimate the Bayesian a
 The estimation and application is shown in [applyFDM.R](applyFDM.R).
 
 # References
-H. Sevcikova, J. Raymer J., A. E. Raftery (2024). Forecasting Net Migration By Age: The Flow-Difference Approach. [arXiv:2411.09878](https://arxiv.org/abs/2411.09878).
+H. Sevcikova, J. Raymer, A. E. Raftery (2026). Net Migration By Age: The Flow-Difference Approach for Estimation and Forecasting. Demography. [doi:10.1215/00703370-12901523](https://doi.org/10.1215/00703370-12901523).
